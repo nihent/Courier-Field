@@ -3,9 +3,6 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/Courier/',
-  plugins: [
-    react(),
-    tailwindcss()
-  ]
+  base: '/Courier-Field/',
+  plugins: [react(), tailwindcss()]
 })
