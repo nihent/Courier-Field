@@ -1,0 +1,8 @@
+{
+  "name": "Courier Field",
+  "description": "A procedural 3D isometric pastel toy-city package delivery game where you race through canal islands, wooden bridges, and rush-hour hazards to deliver parcels in order.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
